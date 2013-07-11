@@ -1,0 +1,7 @@
+{
+  "name": "css-clearfix",
+  "version": "1.0.0",
+  "styles": [
+    "index.styl"
+  ]
+}
